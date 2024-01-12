@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\addmin\\Desktop\\app\\app.csproj": {}
+    "C:\\Users\\addmin\\Desktop\\iron-C-Coding-Challenge\\app.csproj": {}
   },
   "projects": {
-    "C:\\Users\\addmin\\Desktop\\app\\app.csproj": {
+    "C:\\Users\\addmin\\Desktop\\iron-C-Coding-Challenge\\app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\addmin\\Desktop\\app\\app.csproj",
+        "projectUniqueName": "C:\\Users\\addmin\\Desktop\\iron-C-Coding-Challenge\\app.csproj",
         "projectName": "app",
-        "projectPath": "C:\\Users\\addmin\\Desktop\\app\\app.csproj",
+        "projectPath": "C:\\Users\\addmin\\Desktop\\iron-C-Coding-Challenge\\app.csproj",
         "packagesPath": "C:\\Users\\addmin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\addmin\\Desktop\\app\\obj\\",
+        "outputPath": "C:\\Users\\addmin\\Desktop\\iron-C-Coding-Challenge\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\addmin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -54,6 +64,11 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
         }
       }
     }

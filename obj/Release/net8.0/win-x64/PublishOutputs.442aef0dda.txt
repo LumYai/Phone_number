@@ -1,0 +1,12 @@
+C:\Users\addmin\Desktop\iron-C-Coding-Challenge\bin\Release\net8.0\win-x64\publish\app.exe
+C:\Users\addmin\Desktop\iron-C-Coding-Challenge\bin\Release\net8.0\win-x64\publish\NUnit3.TestAdapter.dll
+C:\Users\addmin\Desktop\iron-C-Coding-Challenge\bin\Release\net8.0\win-x64\publish\NUnit3.TestAdapter.pdb
+C:\Users\addmin\Desktop\iron-C-Coding-Challenge\bin\Release\net8.0\win-x64\publish\nunit.engine.dll
+C:\Users\addmin\Desktop\iron-C-Coding-Challenge\bin\Release\net8.0\win-x64\publish\nunit.engine.api.dll
+C:\Users\addmin\Desktop\iron-C-Coding-Challenge\bin\Release\net8.0\win-x64\publish\nunit.engine.core.dll
+C:\Users\addmin\Desktop\iron-C-Coding-Challenge\bin\Release\net8.0\win-x64\publish\testcentric.engine.metadata.dll
+C:\Users\addmin\Desktop\iron-C-Coding-Challenge\bin\Release\net8.0\win-x64\publish\app.dll
+C:\Users\addmin\Desktop\iron-C-Coding-Challenge\bin\Release\net8.0\win-x64\publish\app.deps.json
+C:\Users\addmin\Desktop\iron-C-Coding-Challenge\bin\Release\net8.0\win-x64\publish\app.runtimeconfig.json
+C:\Users\addmin\Desktop\iron-C-Coding-Challenge\bin\Release\net8.0\win-x64\publish\app.pdb
+C:\Users\addmin\Desktop\iron-C-Coding-Challenge\bin\Release\net8.0\win-x64\publish\nunit.framework.dll
